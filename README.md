@@ -2,7 +2,6 @@
 
 [![](https://img.shields.io/badge/github-codeJoyr-%23bfa?logo=github)](https://github.com/codeJoyr)
 [![](https://img.shields.io/badge/%E6%8E%98%E9%87%91-FontJoyr-%23bfa)](https://juejin.cn/user/2665654603494013)
-[![](https://img.shields.io/badge/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2-joyr.cc-%23bfa)](http://joyr.cc)
 ![](https://visitor-badge.glitch.me/badge?page_id=codeJoyr.readme)
 
 ## Technology Stack
